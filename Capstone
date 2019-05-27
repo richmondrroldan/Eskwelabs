@@ -1,1 +1,17 @@
 
+Week 3 (05/27): Question and Data Set(s)
+What is the question you hope to answer? What data are you planning to use to answer that question? 
+What do you know about the data so far? Why did you choose this topic?
+
+ON AGRICULTURE
+I'm planning to predict oversupply of agricultural products.
+I have a dataset from data.gov.ph regarding marketprices on a per day basis.
+I know that the data is not sufficient, the columns that are provided are just enough. Data cleaning might be required on one of the fields.
+I chose this topic to help farmers lessen if not eradicate profit loss.
+
+ON EDUCATION
+How much impact does the student-teacher ratio impact the quality of education here in the Philippines?
+I have a dataset from data.gov.ph regarding the current student-teacher ratio, I am still looking for other datasets that can help me with this.
+The datasets are incomplete, having a 3-5 year gap on datasets.
+I've always been interested on how we can improve the education system here in the Philippines, is it simply by making it accessible, 
+or making it easier for those who teach so that they can focus on each student.
